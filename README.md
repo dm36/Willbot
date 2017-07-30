@@ -1,2 +1,2 @@
 # Willbot
-Playing around/writing plugins for Wilbot: http://skoczen.github.io/will/
+Playing around with/writing plugins for Wilbot: http://skoczen.github.io/will/
